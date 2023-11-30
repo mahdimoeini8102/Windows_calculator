@@ -4,3 +4,5 @@ This project has been implemented and inspired by the Windows calculator, and I 
 Another point is that this project encountered very much bugs and I fixed them as much as I found. You may find some new bugs! So, fix them or inform me to fix them.
 # Parts of project
 This project contains two folders: [Calculator](https://github.com/mahdimoeini8102/Windows_calculator/tree/main/Project_Calculator/Calculator) and [Creating Reference](https://github.com/mahdimoeini8102/Windows_calculator/tree/main/Project_Calculator/Creating%20Reference/MyClassLibrary). The second one is created to have a component of the calculator and you don't need it. The second one is what you need to see the calculator. In this folder, you have access to the Visual Studio executable file that its extension is ".sln". Run it to see the project completely. But if you can go [here](https://github.com/mahdimoeini8102/Windows_calculator/tree/main/Project_Calculator/Calculator/Calculator/bin/Debug) to have access to the executable file that its extension is ".exe". Run it to see the output.
+# An example
+<img src="Example.png" height="200"/>
