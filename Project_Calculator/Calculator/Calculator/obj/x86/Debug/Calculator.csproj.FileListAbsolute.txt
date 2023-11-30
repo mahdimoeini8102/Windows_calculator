@@ -1,0 +1,14 @@
+D:\Moeini\1- Learning C#\Project_Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Moeini\1- Learning C#\Project_Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Moeini\1- Learning C#\Project_Calculator\Calculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+D:\Moeini\1- Learning C#\Project_Calculator\Calculator\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.Cache
+D:\Moeini\1- Learning C#\Project_Calculator\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+D:\Moeini\1- Learning C#\Project_Calculator\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
+D:\Moeini\1- Learning C#\Project_Calculator\Calculator\Calculator\obj\x86\Debug\Calculator.frm_main.resources
+D:\Moeini\1- Learning C#\Project_Calculator\Calculator\Calculator\bin\Debug\MyClassLibrary.dll
+D:\Moeini\1- Learning C#\Project_Calculator\Calculator\Calculator\bin\Debug\MyClassLibrary.pdb
+D:\Moeini\1- Learning C#\Project_Calculator\Calculator\Calculator\obj\x86\Debug\Calculator.csproj.AssemblyReference.cache
+D:\Moeini\1- Learning C#\Project_Calculator\Calculator\Calculator\obj\x86\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+D:\Moeini\1- Learning C#\Project_Calculator\Calculator\Calculator\obj\x86\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Moeini\1- Learning C#\Project_Calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Moeini\1- Learning C#\Project_Calculator\Calculator\Calculator\obj\x86\Debug\Calculator.csproj.CopyComplete

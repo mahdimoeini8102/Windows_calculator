@@ -1,0 +1,5 @@
+D:\Moeini\1- Learning C#\Project_Calculator\Creating Reference\MyClassLibrary\MyClassLibrary\bin\Debug\MyClassLibrary.dll
+D:\Moeini\1- Learning C#\Project_Calculator\Creating Reference\MyClassLibrary\MyClassLibrary\bin\Debug\MyClassLibrary.pdb
+D:\Moeini\1- Learning C#\Project_Calculator\Creating Reference\MyClassLibrary\MyClassLibrary\obj\Debug\MyClassLibrary.dll
+D:\Moeini\1- Learning C#\Project_Calculator\Creating Reference\MyClassLibrary\MyClassLibrary\obj\Debug\MyClassLibrary.pdb
+D:\Moeini\1- Learning C#\Project_Calculator\Creating Reference\MyClassLibrary\MyClassLibrary\obj\Debug\MyClassLibrary.csprojResolveAssemblyReference.cache
